@@ -1,0 +1,66 @@
+{
+  "navbar":".nav.navbar-nav",
+  "img":"img[alt='Website for automation practice']",
+  "signin_btn":"button[data-qa='signup-button']",
+  "signin_mail":"input[data-qa='signup-email']",
+  "signin_name":"input[placeholder='Name']",
+  "login":"a[href='/login']",
+  "signinname":"input[placeholder='Name']",
+  "signinmail":"input[data-qa='signup-email']",
+  "gender":"#id_gender1",
+  "password":"#password",
+  "day":"#days",
+  "month":"#months",
+  "year":"#years",
+  "firstname":"#first_name",
+  "lastname":"#last_name",
+  "company":"#company",
+  "address1":"#address1",
+  "address2":"#address2",
+  "country":"#country",
+  "state":"#state",
+  "city":"#city",
+  "zipcode":"#zipcode",
+  "mobile":"#mobile_number",
+  "createacc_btn":"button[data-qa='create-account']",
+  "loginmail":"input[data-qa='login-email']",
+  "loginpassword":"input[placeholder='Password']",
+  "loginbtn":"button[data-qa='login-button']",
+  "product":"a[href='/products']",
+  "search":"#search_product",
+  "submitbtn":"#submit_search",
+  "featureitems":".features_items",
+  "product1":"a[href='/product_details/43']",
+  "addcartbtn":"button[type='button']",
+  "okaybtn":".btn.btn-success.close-modal.btn-block",
+  "product2":"a[href='/product_details/2']",
+  "reviewname":"#name",
+  "reviewmail":"#email",
+  "review":"#review",
+  "btnreview":"#button-review",
+  "contact":"a[href='/contact_us']",
+  "contactname":"input[placeholder='Name']",
+  "contactmail":"input[placeholder='Email']",
+  "subject":"input[placeholder='Subject']",
+  "messagge":"#message",
+  "contactsubmit":"input[value='Submit']",
+  "product3":"a[href='/product_details/1']",
+  "quantity":"#quantity",
+  "logout":"a[href='/logout']",
+  "deleteacc":"a[href='/delete_account']"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

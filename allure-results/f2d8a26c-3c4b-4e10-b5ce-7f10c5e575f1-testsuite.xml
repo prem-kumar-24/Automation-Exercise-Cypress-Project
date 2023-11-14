@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1699937007265' stop='1699937189511'>
+    <name>Automation</name>
+    <title>Automation</title>
+    <test-cases>
+        <test-case start='1699937007402' status='passed' stop='1699937024804'>
+            <name>Test1: Should verify the presence of key elements on the homepage</name>
+            <title>Test1: Should verify the presence of key elements on the homepage</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937024873' status='passed' stop='1699937035154'>
+            <name>Test 2 : should display the sign-in page elements</name>
+            <title>Test 2 : should display the sign-in page elements</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937035334' status='passed' stop='1699937062936'>
+            <name>Test 3 : create account</name>
+            <title>Test 3 : create account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937063015' status='passed' stop='1699937082472'>
+            <name>Test 4 : login</name>
+            <title>Test 4 : login</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937083013' status='passed' stop='1699937110914'>
+            <name>Test 5 : search product &amp; add to cart</name>
+            <title>Test 5 : search product &amp; add to cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937111218' status='passed' stop='1699937125869'>
+            <name>Test 6 : review</name>
+            <title>Test 6 : review</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937125992' status='passed' stop='1699937137073'>
+            <name>Test 7 : adding multiple quantity of a product to cart</name>
+            <title>Test 7 : adding multiple quantity of a product to cart</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937137270' status='passed' stop='1699937151972'>
+            <name>Test 8 : contact us </name>
+            <title>Test 8 : contact us </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937152091' status='passed' stop='1699937171468'>
+            <name>Test 9 : logout</name>
+            <title>Test 9 : logout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1699937171600' status='passed' stop='1699937189508'>
+            <name>Test 10 : delete account</name>
+            <title>Test 10 : delete account</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
